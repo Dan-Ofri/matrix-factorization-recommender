@@ -50,8 +50,8 @@ The model successfully learns to predict user ratings with reasonable accuracy, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/numpy-matrix-factorization-recommender.git
-cd numpy-matrix-factorization-recommender
+git clone https://github.com/Dan-Ofri/matrix-factorization-recommender.git
+cd matrix-factorization-recommender
 ```
 
 2. Install required dependencies:
